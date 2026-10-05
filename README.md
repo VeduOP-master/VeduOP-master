@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Vedant 👋
 
-<!--
-**VeduOP-master/VeduOP-master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 1st-year **BCA student at the Faculty of Science, The Maharaja Sayajirao University of Baroda (MSU)**, actively exploring the intersection of **Cybersecurity** and **Artificial Intelligence & Machine Learning**. Driven by curiosity, I focus on hands-on experimentation and learning something new every single day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ What I'm Focused On
+- 🎓 **Academics:** Pursuing BCA (1st Year) at MSU Faculty of Science, strengthening my computer science core.
+- 🔐 **Cybersecurity:** Hands-on with **Kali Linux**, exploring **Red Team** (offensive), **Blue Team** (defensive), and **Purple Team** dynamics to discover my niche.
+- 🤖 **AI & Machine Learning:** Understanding foundational models, data workflows, and intelligent system automation.
+- 🚀 **Full-Stack Growth:** Developing with **Python** while actively expanding into **React.js** and **Node.js**.
+
+---
+
+### 🛠️ Tech & Tooling
+
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Security & Environment:**  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+---
+
+### 📬 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/vedant-op" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vedantopradhan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
